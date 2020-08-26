@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <meta charset="utf-8">
+     <meta name="viewport" content="width=device-width"> 
+     <title>Aishwarya Singh Gaur</title>
+</head>
+    <body>
+        <h2><p>Information about Sparrows</p></h2>
+        <img src="https://cdn.britannica.com/32/62532-050-51F638D8/size-throat-patch-house-sparrow-status-rank.jpg" style="float:right;width:120px;height:auto;">
+        <p>Sparrow is a species of birds that can be easily recognized because it lives very close to humans. This small bird originates from North Africa, but it has been successfully introduced to North America, Europe, Asia, Australia and New Zealand. Sparrow, unlike many other birds, cannot be found in forests and deserts. It prefers life close to human settlements, including both urban and rural areas. Number of sparrows decreased dramatically in the last couple of years for unknown reason. Three quarters of sparrows disappeared from the London between 1994 and 2000. Due to fast decline in number of sparrows, this bird is listed as threatened (nearly endangered).</p>
+         
+        <h3><p>Facts about sparrow</p></h3>
+        <p>Sparrow is a very small bird. It can reach 4 to 8 inches in length and 0.8 to 1.4 ounces in weight.</p>
+        <p>Sparrow has stout body, covered with brown, black and white feathers. Its wings are rounded.</p>
+        <p>Males and females can be distinguished by the feather coloration: males have reddish backs and black bib, while females have brown backs    with stripes.</p>
+        <p>Sparrows are very social and they live in colonies called flocks.</p>
+        <p>Sparrows are carnivores (meat-eaters) by nature, but they have changed their eating habits when they learned to live close to people</p>
+        <p>Sparrows primarily eat moths and other small insects, but they can also eat seed, berries and fruit.</p>
+    </body>
+</html>
