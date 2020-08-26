@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head><title>Courses</title>
+</head>
+ <body>
+     <h2><p>List of Courses :-</p></h2>
+     
+     <ol>
+         <li><h4><p>HTML</p></h4></li>
+         <ul>
+             <li>HTML STYLES</li>
+             <li>HTML Attributes</li>
+         </ul>
+         
+         <li><h4><p>CSS</p></h4></li>
+          <ul>
+             <li>CSS Background</li>
+             <li>CSS Text</li>
+          </ul>
+         
+         <li><h4><p>javaScript</p></h4></li>
+          <ul>
+             <li>js variables</li>
+             <li>js functions</li>
+          </ul>
+         
+         <li><h4><p>Python</p></h4></li>
+          <ul>
+             <li>Python functions</li>
+             <li>Python DataTypes</li>
+          </ul>
+         
+         <li><h4><p>SQl</p></h4></li>
+          <ul>
+             <li>SQL insert into</li>
+             <li>SQL min and max</li>
+          </ul>
+         
+     </ol>
+     
+     <ul><li><a href="file:///C:/Users/DELL/Desktop/Internship%202020/courses.html"><h3>Stream</h3></a></li></ul>
+</body>
+</html>
+
