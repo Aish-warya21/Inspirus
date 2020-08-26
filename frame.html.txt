@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head> <h2><title>Bird's Paradise</title></h2>
+        <h2>Welcome to my Bird's Paradise</h2>
+</head>
+ <body>
+     <ul><li><p>Quick Information and Fun Facts about Birds.</p></li></ul>
+     <a href="file:///C:/Users/DELL/Desktop/Internship%202020/try.html" target="My Frame">Fun-Facts and Information</a>
+     <iframe width="400px";height="500px";name="My Frame"></iframe>
+     <p>We'll be adding on new Fun Facts after sometime till then stay tuned....</p>
+     
+     <ul><li><p>Birds Gallery</p></li></ul>
+     <a href="file:///C:/Users/DELL/Desktop/Internship%202020/pictures.html" target="My Birds">Birds Galleria</a>
+     <iframe width="400px";height="500px";name="My Birds"></iframe>
+
+</body>
+</html>
