@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration Page</title>
+    <h2><p>Registration Page</p></h2>
+</head>
+<body> 
+    <form>
+          <label for="fname">First name:</label><br>
+          <input type="text" id="fname" name="fname"><br><br>
+          <label for="lname">Last name:</label><br>
+          <input type="text" id="lname" name="lname"><br><br>
+        
+          <label for="sub">Subject:</label><br>
+          <input type="radio" id="html" id="sub">
+          <label for="html">HTML</label>
+          <input type="radio" id="css" id="sub">
+          <label for="css">CSS</label>
+          <input type="radio" id="js" id="sub">
+          <label for="js">javaScript</label>
+          <input type="radio" id="py" id="sub">
+          <label for="py">Python</label>
+          <input type="radio" id="sql" id="sub">
+          <label for="sql">SQL</label><br><br>
+          
+          <label for="yr">Graduating Year:</label>
+          <select name="Years" id="yr">
+          <option value="2020">2020</option>
+          <option value="2021">2021</option>
+          <option value="2022">2022</option>
+          <option value="2023">2023</option>
+          </select><br><br>
+            
+          <label for="gen">Gender:</label><br>
+          <input type="radio" id="male" id="gen" name="gender" value="male">
+          <label for="male">Male</label>
+          <input type="radio" id="female" id="gen" name="gender" value="female">
+          <label for="female">Female</label>
+          <input type="radio" id="other" id="gen" name="gender" value="other">
+          <label for="other">Other</label><br><br>
+          <input type="submit" value="Submit">
+    </form>
+    </body>
+</html>
