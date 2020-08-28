@@ -1,0 +1,120 @@
+Warning: Consider adding a lang attribute to the html start tag to declare the language of this document.
+
+From line 1, column 16; to line 2, column 6
+
+TYPE html>↩<html>↩<head
+
+For further guidance, consult Declaring the overall language of a page and Choosing language tags.
+
+If the HTML checker has misidentified the language of this document, please file an issue report or send e-mail to report the problem.
+
+Error: The character encoding was not declared. Proceeding using windows-1252.
+
+Error: Element p not allowed as child of element h2 in this context. (Suppressing further errors from this subtree.)
+
+From line 5, column 9; to line 5, column 11
+
+>↩    <h2><p>Regist
+
+Contexts in which element p may be used:
+Where flow content is expected.
+Error: Element style not allowed as child of element body in this context. (Suppressing further errors from this subtree.)
+
+From line 6, column 5; to line 6, column 11
+
+</h2>↩    <style>↩     
+
+Contexts in which element style may be used:
+Where metadata content is expected.
+In a noscript element that is a child of a head element.
+Content model for element body:
+Flow content.
+Error: Stray end tag head.
+
+From line 11, column 1; to line 11, column 7
+
+ </style>↩</head>↩    ↩
+
+Error: Start tag body seen but an element of the same type was already open.
+
+From line 13, column 5; to line 13, column 10
+
+↩    ↩    <body>↩     
+
+Error: Duplicate attribute id.
+
+At line 26, column 43
+
+o" id="html" id="sub">↩       
+
+Error: Duplicate attribute id.
+
+At line 28, column 42
+
+io" id="css" id="sub">↩       
+
+Error: Duplicate attribute id.
+
+At line 30, column 41
+
+dio" id="js" id="sub">↩     
+
+Error: Duplicate attribute id.
+
+At line 32, column 41
+
+dio" id="py" id="sub">↩       
+
+Error: Duplicate attribute id.
+
+At line 34, column 42
+
+io" id="sql" id="sub">↩       
+
+Error: Duplicate attribute id.
+
+At line 36, column 42
+
+io" id="sql" id="sub">↩       
+
+Error: Duplicate ID sql.
+
+From line 36, column 11; to line 36, column 48
+
+          <input type="radio" id="sql" id="sub">↩     
+
+Warning: The first occurrence of ID sql was here.
+
+From line 34, column 11; to line 34, column 48
+
+          <input type="radio" id="sql" id="sub">↩     
+
+Error: Duplicate attribute id.
+
+At line 38, column 42
+
+io" id="sql" id="sub">↩       
+
+Error: Duplicate ID sql.
+
+From line 38, column 11; to line 38, column 48
+
+          <input type="radio" id="sql" id="sub">↩     
+
+Warning: The first occurrence of ID sql was here.
+
+From line 34, column 11; to line 34, column 48
+
+          <input type="radio" id="sql" id="sub">↩     
+
+Error: The value of the for attribute of the label element must be the ID of a non-hidden form control.
+
+From line 25, column 11; to line 25, column 30
+
+          <label for="course">Choice
+
+Error: The value of the for attribute of the label element must be the ID of a non-hidden form control.
+
+From line 45, column 11; to line 45, column 26
+
+          <label for="si">Subjec
