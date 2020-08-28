@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration Page</title>
+    <h2><p>Registration Page</p></h2>
+</head>
+    
+    <body>
+        <form>
+          <label for="fname">First Name :</label> 
+          <input type="text" id="fname" name="fname"> &nbsp;
+          <label for="Mname">Middle Name :</label>
+          <input type="text" id="Mname" name="fname"> &nbsp;
+          <label for="lname">Last Name :</label>
+          <input type="text" id="lname" name="lname"><br><br>
+            
+          <label for="num">Phone number :</label><br>
+          <input type="number" id="num" name="Phone Number"><br><br>
+            
+          <label for="course">Choice of Courses :</label><br>
+          <input type="radio" id="html" id="sub">
+          <label for="html">HTML</label>
+          <input type="radio" id="css" id="sub">
+          <label for="css">CSS</label>
+          <input type="radio" id="js" id="sub">
+          <label for="js">javaScript</label>
+          <input type="radio" id="py" id="sub">
+          <label for="py">Python</label>
+          <input type="radio" id="sql" id="sub">
+          <label for="sql">SQL</label>
+          <input type="radio" id="sql" id="sub">
+          <label for="sql">C Programming</label>
+          <input type="radio" id="sql" id="sub">
+          <label for="sql">C++</label><br><br>
+            
+          <label for="desc">Description :</label><br><br>
+          <textarea id="desc" name="desc" rows="4" cols="50"></textarea><br><br>
+        
+          
+          <label for="si">Subject Interest:</label><br><br>
+          <input type="checkbox" id="pro" value="Programming">
+          <label for="pro">Programming</label><br>
+          <input type="checkbox" id="et" value="Ethical Hacking">
+          <label for="et">Ethical Hacking</label><br>
+          <input type="checkbox" id="wd" value="Web Development">
+          <label for="wd"> Web Development</label><br><br>
+          <input type="submit" value="Submit">
+
+        </form>
+    </body>
