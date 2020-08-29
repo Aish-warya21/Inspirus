@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+    <style>
+         
+    
+        h2{
+            text-align:center;
+            background-color:black;
+            color:darksalmon;
+            font-size:50px;
+        }
+        p{
+          background-color:cornsilk;
+          font-size:25px;
+          padding:50px;
+          }
+        
+        
+    </style>
+    
+  <title>Information about Dogs</title>
+    <h2>Information about Dogs</h2>
+</head>
+<body>
+    <p>There are more than 150 dog breeds, divided into 8 classes: sporting, hound, working, terrier, toy, non-sporting, herding, and miscellaneous.
+
+– According to a recent survey, the most popular name for a dog is Max. Other popular names include Molly, Sam, Zach, and Maggie.
+
+– Dogs can vary in size from a 36 inch (150+ lb.) Great Dane to a 2 lb. Chihuahua.
+
+– Puppies and kittens can be adopted as early as 8 weeks of age.  Until then, they should stay with their moms and littermates.
+
+– About 1/3 of the dogs that are surrendered to animal shelters are purebred dogs.
+
+– Contrary to popular belief, dogs do not sweat by salivating. They sweat through the pads of their feet.
+
+– Dogs may not have as many taste buds as we do (they have about 1,700 on their tongues, while we humans have about 9,000), but that doesn’t mean they’re not discriminating eaters. They have over 200 million scent receptors in their noses (we have only 5 million) so it’s important that their food smells good and tastes good.
+
+– The term “dog days” has nothing to do with dogs. It dates back to Roman times, when it was believed that Sirius, the Dog Star, added its heat to that of the sun from July 3 to August 11, creating exceptionally high temperatures.
+
+– Did you know they were female?  Toto’s role in The Wizard of Oz was played by a female Cairn Terrier named Terry, and the Taco Bell dog is actually a female Chihuahua named Gidget.
+
+– Former US President Teddy Roosevelt had a Pit Bull named Pete.
+
+– An adult dog has 42 teeth.
+
+– If a dog isn’t spayed or neutered, a female dog, her mate and their offspring can product 67,000 dogs in 6 years.
+
+– The most successful mountain rescue dog ever was a St Bernard named Barry, who lived during the early 1800’s and saved 40 lives.
+
+– It was recently discovered that dogs do see in color, just not as vivid as we see.
+
+– Nearly all but two breeds of dogs have pink tongues: the Chow Chow and the Shar-pei both have black tongues.
+
+– The Poodle haircut was originally meant to improve the dog’s swimming abilities as a retriever, with the pom-poms left in place to warm their joints.
+
+– The top five favorite breeds of dogs in the US are: Labrador Retriever, Golden Retriever, German Shepherd, Beagle, and Dachshund.
+
+– The Basenji is the only barkless dog in the world. </p>
+</body>
+</html>
