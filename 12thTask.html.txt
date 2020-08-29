@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+    <style>
+         
+    
+        h2{
+            text-align:center;
+            background-color:black;
+            color:darksalmon;
+            font-size:50px;
+        }
+        p{
+          background-color:cornsilk;
+          font-size:25px;
+          padding:20px;
+         margin-left:10px;
+          }
+        img{
+            float:left;
+            width:300px;
+            height:300px;
+            margin-left: 15px;
+        }
+        
+    </style>
+    
+  <title>Information about Dogs</title>
+    <h2>Information about Dogs</h2>
+</head>
+<body>
+    <img src="peacock.jpg">
+<p>Peacocks are large, colorful pheasants (typically blue and green) known for their iridescent tails.
+
+Distinctive Tail Feathers
+
+These tail feathers, or coverts, spread out in a distinctive train that is more than 60 percent of the bird’s total body length and boast colorful "eye" markings of blue, gold, red, and other hues. The large train is used in mating rituals and courtship displays. It can be arched into a magnificent fan that reaches across the bird's back and touches the ground on either side. Females are believed to choose their mates according to the size, color, and quality of these outrageous feather trains.
+
+Males vs. Females
+
+The term "peacock" is commonly used to refer to birds of both sexes. Technically, only males are peacocks. Females are peahens, and together, they are called peafowl.
+
+Suitable males may gather harems of several females, each of which will lay three to five eggs. In fact, wild peafowl often roost in forest trees and gather in groups called parties.
+
+Population
+
+Peacocks are ground-feeders that eat insects, plants, and small creatures. There are two familiar peacock species. The blue peacock lives in India and Sri Lanka, while the green peacock is found in Java and Myanmar (Burma). A more distinct and little-known species, the Congo peacock, inhabits African rain forests.
+
+Peafowl such as the blue peacock have been admired by humans and kept as pets for thousands of years. Selective breeding has created some unusual color combinations, but wild birds are themselves bursting with vibrant hues. They can be testy and do not mix well with other domestic birds. </p>
+</body>
+</html>
