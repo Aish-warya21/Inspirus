@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+    <style>
+         
+    
+        h2{
+            text-align:center;
+            background-color:black;
+            color:lightblue;
+            font-size:50px;
+        }
+        p{
+          background-color:lightpink;
+          font-size:20px;
+          }
+    </style>
+    
+  <title>My Favourite Story</title>
+    <h2>An Old Man Lived In The Village</h2>
+</head>
+<body>
+    <p>An old man lived in the village. He was one of the most unfortunate people in the world. The whole village was tired of him; he was always gloomy, he constantly complained and was always in a bad mood.
+    
+    The longer he lived, the more bile he was becoming and the more poisonous were his words. People avoided him, because his misfortune became contagious. It was even unnatural and insulting to be happy next to him.
+    
+    He created the feeling of unhappiness in others.
+    
+    But one day, when he turned eighty years old, an incredible thing happened. Instantly everyone started hearing the rumour:</p>
+    
+    <span style="background-color:lightseagreen;color:black;font-size:25px;"><i>“An Old Man is happy today, he doesn’t complain about anything, smiles, and even his face is freshened up.”</i></span>
+</body>
+</html>
