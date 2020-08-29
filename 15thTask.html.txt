@@ -1,0 +1,16 @@
+URI : 9thTask.html.txt
+
+72		Property test-align doesn't exist. The closest matching property name is text-align : centre
+
+Valid CSS information
+table, th, td {
+border : black solid 1px;
+border-collapse : collapse;
+}
+th, td {
+padding : 15px;
+}
+body {
+outline-color : coral;
+outline-style : groove;
+}
