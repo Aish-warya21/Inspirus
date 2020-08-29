@@ -1,0 +1,87 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+    th, td {
+  padding: 15px;
+}
+    [class^="hey"]{
+        background-color:cadetblue;
+    }
+    
+    [class^="hola"]{
+        font-style: italic;
+    }
+
+</style>
+</head>
+<body>
+
+<table style="width:100%">
+    <caption>Marks of 6th Semester</caption>
+  <tr>
+    <th>S No.</th>
+    <th>Subject</th>
+    <th>Marks obtained</th> 
+    <th>Total marks</th>
+  </tr>
+
+  <tr>
+    <td>1.</td>
+    <td class="hola">Embedded Systems and Designs</td>
+    <td class="hey">84</td>      <!--marks in green color-->
+    <td>100</td>
+  </tr>
+
+  <tr>
+    <td>2.</td>
+    <td class="hola">Design and Analysis of Algorithms</td>
+    <td class="hey">92</td>           <!--marks in green color-->
+      <td>100</td>
+  </tr>
+
+  <tr>
+    <td>3.</td>
+    <td class="hola">Artificial Intelligence</td>
+    <td class="hey">72</td>
+    <td>100</td>
+  </tr>
+
+  <tr>   
+    <td>4.</td>
+    <td class="hola">Computer Graphics</td>
+    <td class="hey">80</td>
+    <td>100</td>
+  </tr>
+
+  <tr>   
+    <td>5.</td>
+    <td class="hola">Software Testing and Quality Assuarane</td>
+    <td class="hey">88</td>
+    <td>100</td>
+  </tr>
+
+  <tr>   
+    <td>6.</td>
+    <td class="hola">Computer Networks</td>
+    <td class="hey">88</td>
+    <td>100</td>
+  </tr>
+
+    <tr>
+        <td colspan="3" style="test-align:centre;">Grand Total</td>
+        <td>84/00</td>
+    </tr>
+
+</table>
+
+</body>
+</html>
+
+ 
+ 
