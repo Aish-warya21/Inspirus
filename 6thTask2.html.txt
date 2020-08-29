@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head> <h2><title>Details Page</title></h2>
+        <h2>Details Page</h2>
+</head>
+ <body>
+     First Name : Aishwarya<br>
+     Middle Name : Chandrabhal<br>
+     Last Name : Singh Gaur<br><br>
+  
+     Phone number : 9511892837<br><br>
+     
+     Choice of courses : HTML<br><br>
+     
+     Description : I wants to learn HTMl to learn how a website is made.<br><br>
+     
+     Subject Interest : Web Development<br><br>
+    </body>
+</html>
