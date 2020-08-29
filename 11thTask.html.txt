@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+    <style>
+         
+    
+        h2{
+            text-align:center;
+            background-color:black;
+            color:lightblue;
+            font-size:50px;
+        }
+        p{
+          background-color:coral;
+          font-size:30px;
+          margin-bottom:25px;
+          margin-left:10px;
+          margin-right:10px;
+          }
+        
+        h2.hidden{
+            display:none;
+        }
+        
+        h1{
+            background-color:black;
+            color:white;
+            text-align:center;
+            font-size:50px;
+        }
+    </style>
+    
+  <title>Information about Goldfish</title>
+    <h2 class="hidden">Information about Goldfish</h2>
+    <h1><i>Golfish</i></h1>
+</head>
+<body>
+    <p>Thank the Chinese for today’s beloved aquarium mainstay, the goldfish. A type of carp, goldfish were domesticated nearly 2,000 years ago for use as ornamental fish in ponds and tanks. They were seen as a symbol of luck and fortune, and they could only be owned by members of the Song Dynasty.
+
+    The fish are now ubiquitous in bowls throughout homes, classrooms, and doctor’s offices. They even share a name with a cracker, fondly known as the “snack that smiles back.”
+
+    Don’t confuse goldfish with its oversized cousin koi, another type of domesticated carp. There’s a common misconception that koi are large goldfish, but they are distinct species.Prussian carp, from which goldfish were domesticated, are traditionally a dull, gray-green hue. But mutations and breeding over the years created goldfish' signature orange, red, and yellow pigments found in the over a hundred varieties of the fish today. Goldfish first arrived in Europe in the 1600s and the United States in the 1800s, becoming what is likely the first foreign fish species introduced to North America.</p>
+</body>
+</html>
