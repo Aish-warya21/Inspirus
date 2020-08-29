@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+    <style>
+        body{
+            background-color:black
+        } 
+        ul{
+            color:darkcyan;
+            font-size:20px;
+        }
+        h2{
+            background-color:deepskyblue;
+            font-size:30px;
+            text-align:center;
+        }
+        p{
+            color:darkcyan;
+            font-size:20px;
+        }
+        
+        ul{
+            list-style-type: square; 
+        }
+        
+        ol{
+             list-style-type: upper-roman;
+            color:darkcyan;
+            font-size:20px;
+        }
+        
+        h3{
+              color:darkcyan;
+        }
+    </style>
+    
+  <title>Red Velvet Cake</title>
+    <h2><i>Red Velvet Cake</i></h2>
+</head>
+<body>
+    <h3>Ingredients</h3>
+    <ul>
+        <li>3 cups all-purpose flour</li>
+        <li>3 cups granulated sugar</li>
+        <li>1/2 cup cornstarch</li>
+        <li>1/2 cup unsweetened cocoa powder</li>
+        <li>1 tablespoon baking soda</li>
+        <li>1½ teaspoons baking powder</li>
+        <li>1½ teaspoons salt</li>
+        <li>4 large eggs</li>
+        <li>1½ cups buttermilk</li>
+        <li>1¼ cups warm water</li>
+        <li>1/2 cup vegetable oil</li>
+        <li>1 teaspoon vanilla extract</li>
+        <li>1 teaspoon distilled white vinegar</li>
+        <li>2 tablespoons red food coloring</li>
+    </ul>
+    
+        <h3>INSTRUCTIONS</h3>
+    <ol>
+        <li>Preheat oven to 350 degrees. Butter three 9-inch cake rounds. Dust with flour and tap out the excess.</li>
+        <li>Mix together flour, sugar, cornstarch, cocoa, baking soda, baking powder, and salt in a stand mixer using a low speed until combined.</li>
+        <li>Add eggs, buttermilk, warm water, oil, vanilla, vinegar, and food coloring. Beat on a medium speed until smooth. This should take just a couple of minutes.</li>
+        <li>Divide batter among the three prepared pans.</li>
+        <li>Bake for 30-35 minutes until the cake meets the toothpick test (stick a toothpick in and it comes out clean).</li>
+        <li>Cool on wire racks for 15 minutes and then turn out the cakes onto the racks and allow to cool completely before frosting.</li>
+        <li>Make the frosting. In a large bowl, beat together butter and cream cheese until fluffy. Use a hand mixer or stand mixer for best results. Add in vanilla extract. Beat until combined. Beat in powdered sugar, 1 cup at a time until frosting is smooth.</li>
+        <li>Assemble and frost the completely cooled cake.</li>
+    </ol>
+</body>
+</html>
