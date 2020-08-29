@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+    <style>
+        body{
+            background-color:black
+        } 
+        ul{
+            color:darkcyan;
+            font-size:20px;
+        }
+        h2{
+            background-color:deepskyblue;
+            font-size:30px;
+            text-align:center;
+        }
+        p{
+            color:darkcyan;
+            font-size:20px;
+        }
+    </style>
+    
+  <title>Types of Vegetables</title>
+    <h2><i>Types of Vegetables</i></h2>
+</head>
+<body>
+    <p>Vegetables are available in many varieties and can be classified into biological groups or ‘families’, including:</p>
+    <ul>
+        <li>Leafy green – lettuce, spinach and silverbeet</li>
+        <li>Cruciferous – cabbage, cauliflower, Brussels sprouts and broccoli</li>
+        <li>Marrow – pumpkin, cucumber and zucchini</li>
+        <li>Root – potato, sweet potato and yam</li>
+        <li>Edible plant stem – celery and asparagus</li>
+        <li>Allium – onion, garlic and shallot.</li>
+    </ul>
+</body>
+</html>

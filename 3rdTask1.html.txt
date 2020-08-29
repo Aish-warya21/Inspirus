@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+    <style>
+        body{
+            background-image:url(https://images.freecreatives.com/wp-content/uploads/2015/04/excellent-dark-teal-with-plain-dark-teal-background-plain-teal-background.jpg)
+        } 
+        ul{
+            color:coral;
+            font-size:20px;
+        }
+        h2{
+            background-color: darkseagreen;
+            font-size:30px;
+            text-align:center;
+        }
+        p{
+            color:coral;
+            font-size:20px;
+        }
+    </style>
+    
+  <title>Types of Fruits</title>
+    <h2><i>Types of Fruits</i></h2>
+</head>
+<body>
+    <p>Fruit is the sweet, fleshy, edible part of a plant. It generally contains seeds. Fruits are usually eaten raw, although some varieties can be cooked. They come in a wide variety of colours, shapes and flavours. Common types of fruits that are readily available include:</p>
+    <ul>
+        <li>Apples and pears</li>
+        <li>Citrus – oranges, grapefruits, mandarins and limes</li>
+        <li>Stone fruit – nectarines, apricots, peaches and plums</li>
+        <li>Tropical and exotic – bananas and mangoes</li>
+        <li>Berries – strawberries, raspberries, blueberries, kiwifruit and passionfruit</li>
+        <li>Melons – watermelons, rockmelons and honeydew melons</li>
+        <li>Tomatoes and avocados.</li>
+    </ul>
+</body>
+</html>
